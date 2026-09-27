@@ -93,3 +93,16 @@ scrollTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 's
   }
   requestAnimationFrame(draw);
 })();
+
+/* Hero photo zoom */
+const heroPhoto = document.querySelector('.hero-photo img');
+
+if (heroPhoto) {
+  heroPhoto.addEventListener('mouseenter', () => {
+    heroPhoto.classList.add('zoomed');
+  });
+
+  heroPhoto.addEventListener('click', () => {
+    heroPhoto.classList.add('zoomed');
+  });
+}
