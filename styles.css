@@ -172,7 +172,7 @@ body::before{
 }
 
 /* ---------- Stat strip: luggage tags ---------- */
-.stats{position:relative; z-index:1; display:flex; flex-wrap:wrap; justify-content:center; gap:18px; margin:20px auto 64px; max-width:1080px;}
+.stats{position:relative; z-index:1; display:flex; flex-wrap:wrap; justify-content:center; gap:18px; margin:10px auto 64px; max-width:1080px;}
 .stat{background:var(--parchment-deep); border:2px solid var(--ink); border-radius:10px; padding:14px 18px; display:flex; align-items:center; gap:10px; transform:rotate(var(--tilt,0deg));}
 .stat:nth-child(odd){--tilt:-1.2deg;}
 .stat:nth-child(even){--tilt:1deg;}
