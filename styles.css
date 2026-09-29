@@ -108,7 +108,7 @@ body::before{
 .fact-box-title{margin:0 0 14px;}
 .hero-name{font-size:clamp(2.8rem,5.4vw,4rem); margin:6px 0 4px;}
 .accent-dot{color:var(--duck);}
-.hero-role{margin:10px 0 4px;}
+.hero-role{margin:4px 0 4px;}
 .hero-role,.fact-box-title{font-family: var(--font-hand);font-style:italic; font-size:1.4rem; color:var(--moss); font-weight:600; display: inline-block;}
 .hero-desc.fact-list li{font-family:var(--font-body); font-size:.95rem; font-weight:600; line-height:1.6; color:var(--ink-soft);}
 .hero-desc{max-width:48ch; margin:14px 0 30px;}
@@ -185,7 +185,7 @@ body::before{
 /* ---------- Section chapter labels ---------- */
 .chapter{position:relative; z-index:1; margin:0 0 64px;}
 .chapter-eyebrow{font-family:var(--font-hand); font-style:italic; font-size:1.2rem; color:var(--berry); margin:0 0 2px; display:inline-block;}
-.chapter-title{font-size:1.9rem; margin:0 0 28px;}
+.chapter-title{font-size:1.9rem; margin:0 0 0px;}
 
 /* ---------- Trail (map path down the page) ---------- */
 .trail-wrap{position:relative;}
