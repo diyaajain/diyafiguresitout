@@ -101,7 +101,7 @@ body::before{
 .icon-btn:hover{background:var(--duck); color:var(--ink);}
 
 /* ---------- Hero ---------- */
-.hero{position:relative; z-index:1; display:grid; grid-template-columns:1.1fr 1fr; gap:10px; align-items:center; padding:40px 0;}
+.hero{position:relative; z-index:1; display:grid; grid-template-columns:1.1fr 1fr; gap:10px; align-items:center; padding:40px 48px;}
 .hero-heading{grid-column:1/-1;}
 .hero-hand{font-family:var(--font-hand); font-style:italic; font-size:1.4rem; font-weight:400; color:var(--moss); margin:0 0 4px; display:inline-block;}
 .hero-name{font-size:clamp(2.8rem,5.4vw,4rem); margin:6px 0 4px;}
