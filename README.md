@@ -31,8 +31,3 @@ Plain HTML, CSS, and JavaScript — no frameworks, no build step.
 ├── diya-photo.png     # hero portrait (cutout)
 └── resume.pdf          # downloadable/viewable resume
 ```
-
-## Contact
-
-- **Email:** diyadeepi.jain@gmail.com
-- **LinkedIn:** [linkedin.com/in/diyajain08](https://www.linkedin.com/in/diyajain08/)
