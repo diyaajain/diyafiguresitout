@@ -32,25 +32,7 @@ Plain HTML, CSS, and JavaScript — no frameworks, no build step.
 └── resume.pdf          # downloadable/viewable resume
 ```
 
-## Running it locally
-
-No build tools required. Either:
-
-- Open `index.html` directly in a browser, **or**
-- Serve the folder locally for the most accurate experience (some browsers restrict local file access):
-
-  ```bash
-  python3 -m http.server 8000
-  ```
-
-  then visit `http://localhost:8000`.
-
-## Deploying
-
-Since it's static files, it can be hosted anywhere — GitHub Pages, Netlify, Vercel, etc. For GitHub Pages: push this repo, then enable Pages in the repo settings (serve from the `main` branch root).
-
 ## Contact
 
 - **Email:** diyadeepi.jain@gmail.com
 - **LinkedIn:** [linkedin.com/in/diyajain08](https://www.linkedin.com/in/diyajain08/)
-- **GitHub:** [github.com/diyaajain](https://github.com/diyaajain)
