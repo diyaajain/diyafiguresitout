@@ -2,8 +2,6 @@
 
 My personal portfolio site — a "field journal" themed single-page site covering my projects, skills, certifications, experience, and a bit about what I'm into outside of code.
 
-🔗 **Live site:** _add your deployed link here (e.g. GitHub Pages / Netlify / Vercel URL)_
-
 ## Built with
 
 Plain HTML, CSS, and JavaScript — no frameworks, no build step.
